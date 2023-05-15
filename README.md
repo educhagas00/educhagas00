@@ -6,6 +6,12 @@ Hey.
 - 🌱 I’m currently learning:
 <img align="center" alt="Rafa-cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  /> <img align="center" alt="Rafa-cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
+<br/>
+ <div width="100%">
+    <a href="https://github.com/miguezzz/github-readme-stats"><img alt="Victor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miguezzz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&width="50%"" /></a>
+  <a href="https://github.com/miguezzz/github-readme-stats"><img alt="Victor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguezzz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&width="50%"" /></a>
+    </div>
+  <br/>
 
 - 📫 How to reach me: 
 <div>
