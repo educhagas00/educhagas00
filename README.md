@@ -1,6 +1,6 @@
 
 # 👋 Olá, bem vindo ao meu perfil!
-## My name is Eduardo Chagas.
+## My name is Eduardo Chagas. <div class="tenor-gif-embed" data-postid="25950025" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/pixel-cat-gif-25950025">Pixel Cat Sticker</a>from <a href="https://tenor.com/search/pixel-stickers">Pixel Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - Atualmente, estou aprendendo as seguintes linguagens:
 
