@@ -1,6 +1,6 @@
 
 # 👋 Olá, bem vindo ao meu perfil!
-## Meu nome é Eduardo Chagas.                                               <img src="https://github.com/educhagas00/educhagas00/assets/111936750/ea7e2957-0c78-407b-8779-b8dee998ddfe" width="175" height="175"/>
+## Meu nome é Eduardo Chagas.                                               <img src="https://github.com/educhagas00/educhagas00/assets/111936750/ce95c8a9-017d-4b23-a4a2-395fc7da45a8" width="175" height="175"/>
 
 - Atualmente, estou aprendendo as seguintes linguagens:
 
