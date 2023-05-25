@@ -1,9 +1,6 @@
 
 # 👋 Olá, bem vindo ao meu perfil!
-## Meu nome é Eduardo Chagas.                                              
-
-<div align="center" >
-<a  href="https://github.com/SP-XD">
+## Meu nome é Eduardo Chagas.                                                       
 
 - Atualmente, estou aprendendo as seguintes linguagens:
 
