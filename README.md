@@ -1,6 +1,9 @@
 # 👋 Olá, bem vindo ao meu perfil!
 ## Meu nome é Eduardo Chagas.                                                          
-<img src="https://github.com/educhagas00/educhagas00/assets/111936750/ea7e2957-0c78-407b-8779-b8dee998ddfe" width="175" height="175"/>
+
+<br><br> Vibing to : 🎧  </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
 - Atualmente, estou aprendendo as seguintes linguagens:
 
