@@ -9,7 +9,7 @@
 My name is Eduardo Chagas!
 
 - 👨‍🎓: Student at **UFRRJ** - Computer Science - 6th Term
-- :man_technologist:: C, Java, HTML, CSS...
+- :man_technologist:: C, Java, HTML, CSS, JavaScript, Node...
 
 
 ---
